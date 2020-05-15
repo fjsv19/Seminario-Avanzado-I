@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C16F527A-4880-4DE4-8F12-C80BB88884F3}</ProjectGuid>
+    <ProjectGuid>{98F78B42-CA3E-4892-9736-ED44AEE22B37}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <StartupObject>SistemaLectores.My.MyApplication</StartupObject>
     <RootNamespace>SistemaLectores</RootNamespace>

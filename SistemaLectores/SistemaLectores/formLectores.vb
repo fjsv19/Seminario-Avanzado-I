@@ -1,4 +1,10 @@
-﻿Imports System.Data.SqlClient
+﻿'GRABIELA YUDIHT GUTIERREZ
+'DANIEL PAICO CHILENO
+'JHON SEBASTY CHAVEZ
+'SANDRA PAOLA PISCOYA
+'FERNANDO SERRATO
+
+Imports System.Data.SqlClient
 Public Class frmLectores
 
     Private Sub btnCerrar_Click(sender As Object, e As EventArgs) Handles btnCerrar.Click

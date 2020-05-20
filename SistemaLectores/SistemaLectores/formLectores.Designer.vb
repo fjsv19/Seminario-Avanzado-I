@@ -88,9 +88,9 @@ Partial Class frmLectores
         Me.lbklTitulo.Font = New System.Drawing.Font("Cambria", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lbklTitulo.Location = New System.Drawing.Point(12, 9)
         Me.lbklTitulo.Name = "lbklTitulo"
-        Me.lbklTitulo.Size = New System.Drawing.Size(100, 22)
+        Me.lbklTitulo.Size = New System.Drawing.Size(104, 22)
         Me.lbklTitulo.TabIndex = 0
-        Me.lbklTitulo.Text = "LECTORES"
+        Me.lbklTitulo.Text = "PERSONAS"
         '
         'panelBusqueda
         '
